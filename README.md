@@ -11,7 +11,7 @@ Requirements:
 
 To run both the map coloring codes, matplotlib and networkx libraries are required.
 
-Installation:
+Installation (All of the below do the same but all might not work on every system):
 
 pip install matplotlib networkx
 
